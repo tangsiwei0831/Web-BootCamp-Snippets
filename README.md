@@ -16,4 +16,5 @@ user for express - avoid userless restart for server
 
 # git
 git rm --cached -r .     -remove all files from staging period
+
 git checkout   - switch branch, roll back files       
