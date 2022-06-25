@@ -10,7 +10,9 @@ although array is const, you can push, but no new assign
 
 # Command
 rm -r    remove directory
+
 rm -rf --no-preserve-root/   force to remove directory, , no confirmation, cannot recover
+
 touch create file
 
 # nodemon
@@ -28,3 +30,4 @@ const cannot change value
 
 Inside if/else/for/while, var - global, let/const - local
 
+git checkout   - switch branch, roll back files       
