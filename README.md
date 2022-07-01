@@ -28,4 +28,23 @@ var, let, const inside function - all local, outside all global
 
 const cannot change value
 
-Inside if/else/for/while, var - global, let/const - local      
+Inside if/else/for/while, var - global, let/const - local  
+
+# SQL vs NoSQL
+relational vs Non-relational
+
+Structured Query Language vs Not onlyStructured Query Language
+
+SQL - inflexible - for some columns that only specifc row may have, they may isnert null for other rows
+
+NoSQL - MongoDB - flexible, store JSON objects
+
+Scalability:
+
+SQL maybe unstable
+
+MongoDB would split data into small chunks, maybe slow, but stable
+
+MySQL: - more mature, table structure, require a schema, great with relationsbhips. scale vertically
+
+MongoDB - shiny and new, document structure, more flexible to change, not great with complex relationships, horizontally scalable
