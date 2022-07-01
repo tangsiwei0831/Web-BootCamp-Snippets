@@ -28,6 +28,4 @@ var, let, const inside function - all local, outside all global
 
 const cannot change value
 
-Inside if/else/for/while, var - global, let/const - local
-
-git checkout   - switch branch, roll back files       
+Inside if/else/for/while, var - global, let/const - local      
