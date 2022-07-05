@@ -48,3 +48,8 @@ MongoDB would split data into small chunks, maybe slow, but stable
 MySQL: - more mature, table structure, require a schema, great with relationsbhips. scale vertically
 
 MongoDB - shiny and new, document structure, more flexible to change, not great with complex relationships, horizontally scalable
+
+# RESTful API
+PUT:  update database by send an entire entry to replace the previous one, must send the whole JSON
+
+PATCH: send piece of data needs to be updated
